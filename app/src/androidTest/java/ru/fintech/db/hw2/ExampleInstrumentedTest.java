@@ -1,4 +1,4 @@
-package ru.fintech.db.hw1;
+package ru.fintech.db.hw2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ru.fintech.db.hw1", appContext.getPackageName());
+        assertEquals("ru.fintech.db.hw2", appContext.getPackageName());
     }
 }

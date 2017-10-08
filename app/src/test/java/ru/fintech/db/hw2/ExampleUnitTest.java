@@ -1,4 +1,4 @@
-package ru.fintech.db.hw1;
+package ru.fintech.db.hw2;
 
 import org.junit.Test;
 
