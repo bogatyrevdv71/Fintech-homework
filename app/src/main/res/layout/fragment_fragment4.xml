@@ -1,0 +1,45 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="7dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="ru.fintech.db.hw1.Fragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fragment4_title" />
+    <Button
+        android:id="@+id/button1_f4"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/button2_f4"
+        android:text="to 1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/button2_f4"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/button3_f4"
+        android:text="to 2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/button3_f4"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:text="to 3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        app:layout_constraintTop_toBottomOf="@id/button1_f4"
+        android:id="@+id/text_final"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+
+</android.support.constraint.ConstraintLayout>

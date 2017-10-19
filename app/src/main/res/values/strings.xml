@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">Hw1</string>
+    <string name="app_name">Hw4</string>
     <string name="action_settings">Settings</string>
+    <string name="fragment1_title">Fragment 1</string>
+    <string name="fragment2_title">Fragment 2</string>
+    <string name="fragment3_title">Fragment 3</string>
+    <string name="fragment4_title">Fragment 4</string>
+    <string name="next">Next</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
