@@ -1,3 +1,9 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="font_sz">20sp</dimen>
+    <dimen name="ticks">100dp</dimen>
+    <dimen name="inner_padding">7dp</dimen>
+    <dimen name="text_padding">10dp</dimen>
+    <dimen name="outer_padding">15dp</dimen>
+    <dimen name="tick_length">15dp</dimen>
 </resources>
