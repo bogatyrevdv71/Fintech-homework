@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.fintech.db.hw1.MainActivity"
+    android:layout_height="match_parent">
+    <TextView android:id="@+id/node_id"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:textColor="@color/TextColor"
+        android:textSize="24sp"/>
+</android.support.constraint.ConstraintLayout>

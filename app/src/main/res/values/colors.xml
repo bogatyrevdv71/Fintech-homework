@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="notVeryYellow">#88FFFF00</color>
+    <color name="notVeryBlue">#880000FF</color>
+    <color name="notVeryRed">#88FF0000</color>
+    <color name="notVeryGreen">#8800FF00</color>
+    <color name="TextColor">#000</color>
 </resources>
